@@ -10,7 +10,7 @@ void mainmenu(void);
 void add(void);
 void list(void);
 void closes(void);
-void Password(void);
+void Password(void); 
 void edit();
 void transactions();
 char password[20] = {"1234"};
