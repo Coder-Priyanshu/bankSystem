@@ -16,6 +16,7 @@ void edit();
 void transactions();
 char password[20] = {"1234"};
 char find;
+
 struct date
 {
     int day, month, year;
